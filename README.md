@@ -1,40 +1,47 @@
-# Wendao Persona Skills
+# Persona Skills
 
-问道（Wendao）名人导师的 **女娲蒸馏 Skill** 独立仓库。与 [wendao](https://github.com/ChaosJu/wendao) 应用代码分离，仅存放 `SKILL.md` 与调研 sidecar。
+[女娲 · nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 蒸馏的人物思维框架 Skill 集合。
 
-BFF 通过环境变量 `OPENCLAW_SKILLS_DIR` 指向本仓库克隆目录，按 `personas.json` 中的 `skillDir` 加载对应 `SKILL.md`。
+每个 Skill 包含：
+- `SKILL.md` — 核心 prompt（心智模型、决策启发式、表达 DNA）
+- `references/research/` — 调研 sidecar（著作精读、时间线、争议等，不注入 prompt）
 
 ## 目录结构
 
 ```text
-wendao-skills/                    # OPENCLAW_SKILLS_DIR 指向此处
-  li-xiaolai-perspective/
-    SKILL.md                      # 运行时注入 system prompt
-    references/research/          # 调研 sidecar，不注入 prompt
+li-xiaolai-perspective/
+  SKILL.md
+  references/research/
+    01-writings.md
+    01b-writings-more.md
+    02-conversations.md
+    03-expression-dna.md
+    04-external-views.md
+    05-decisions.md
+    06-timeline.md
 ```
 
-## 部署
+## 使用方式
+
+### Cursor Agent Skill
+
+将目录复制或软链到 `~/.cursor/skills/`：
 
 ```bash
-git clone https://github.com/ChaosJu/wendao-skills.git /root/.openclaw/workspace/skills
-# 或任意路径，在 wendao server/.env 中设置：
-# OPENCLAW_SKILLS_DIR=/path/to/wendao-skills
+cp -r li-xiaolai-perspective ~/.cursor/skills/
 ```
 
-## 与 wendao 的配合
+重启 Cursor 后在对话中说「用李笑来的视角」即可激活。
 
-新增一位导师需要两处改动：
+### 作为 System Prompt
 
-| 仓库 | 改动 |
-|------|------|
-| **wendao-skills**（本仓库） | 添加 `{skillDir}/SKILL.md` |
-| **wendao** | `server/src/data/personas.json`、`miniprogram/utils/persona-profiles.js` |
+读取 `SKILL.md` 内容注入 LLM 的 system message 即可，适用于任何兼容 OpenAI API 的服务。
 
 ## 已收录
 
-| skillDir | 人物 | 说明 |
-|----------|------|------|
-| `li-xiaolai-perspective` | 李笑来 | [女娲 · nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 蒸馏，9 本著作 + 媒体调研 |
+| 目录 | 人物 | 来源 |
+|------|------|------|
+| `li-xiaolai-perspective` | 李笑来 | 9 本著作原文 + 30+ 条权威媒体 |
 
 ## License
 

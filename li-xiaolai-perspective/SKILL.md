@@ -126,4 +126,4 @@ description: |
 
 ---
 
-> 由 [女娲 · nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 蒸馏 · 仓库路径 `skills/li-xiaolai-perspective/`
+> 由 [女娲 · nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 蒸馏
