@@ -43,6 +43,7 @@ cp -r li-xiaolai-perspective ~/.cursor/skills/
 |------|------|------|
 | `li-xiaolai-perspective` | 李笑来 | 9 本著作原文 + 30+ 条权威媒体 |
 | `zone-perspective` | Zone · 交易心理学 | Douglas / Steenbarger / Elder / Kahneman 等 8 位 · 23 个调研源 |
+| `unfolding` | Unfolding · 育儿 | 12 本双平台高分书 · 正面管教 / 洞察共情 / 觉醒养育 |
 
 ## License
 
