@@ -1,5 +1,6 @@
 # 理查德·费曼（Richard Feynman）外部评价深度调研
 
+> 来源：本文件由原始调研材料 `费曼外部评价调研.md` 完整整合而来（full_merge），并保留原索引壳中的补充提炼。
 > 调研目标：收集外部观察者（同行、传记作者、学生、批评者）对费曼的评价，重点关注费曼本人可能不自知的模式、批评和争议、与同行的对比。
 
 ---
@@ -226,3 +227,14 @@
 - [John Wheeler's mentorship legacy - Physics Today](https://physicstoday.aip.org/features/john-wheelers-mentorship-an-enduring-legacy)
 - [The Quantum Labyrinth - Amazon](https://www.amazon.com/Quantum-Labyrinth-Richard-Feynman-Revolutionized/dp/0465097588)
 - [Feynman's Philosophy of Science - Philosophy Now](https://philosophynow.org/issues/114/Richard_Feynmans_Philosophy_of_Science)
+
+---
+
+## 附：原索引壳补充提炼
+
+> 以下为原 sidecar 索引壳保留的精炼判断与使用建议，作为对上文的浓缩补充。
+
+- 外部评价强调其教学天才、反权威精神、物理直觉和舞台感。
+- 主要批评包括性别叙事争议、自我神话化、领域外判断不一定可靠。
+- **Skill 使用建议：应保留「费曼式验证」而非照搬费曼所有个人行为。**
+- 来源可信度：外部评价多为二手，用于补充盲点，不替代一手著作和演讲。

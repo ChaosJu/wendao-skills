@@ -1,3 +1,9 @@
+# 01 著作与系统思考
+
+> 来源：本文件由 `../Elon-Musk-思想体系调研-20260404.md` 完整整合而成（full_merge），并保留原 sidecar 索引壳的标准化摘要（见文末）。综合调研辅助见 `../research.md`。
+
+---
+
 # Elon Musk 著作与系统性思考调研
 
 > 调研日期：2026-04-04
@@ -313,3 +319,19 @@
 - [白痴指数详解 - Medium](https://medium.com/@logycco/elon-musks-idiot-index-transformed-pioneering-production-efficiency-in-the-age-of-enterprise-ai-064b3eef3218)
 - [马斯克矛盾分析 - Wikipedia](https://en.wikipedia.org/wiki/Views_of_Elon_Musk)
 - [Agile 2 Academy: 马斯克的矛盾](https://www.agile2academy.com/agile-2-academy-blog/the-contradictions-of-elon-musk)
+
+---
+
+## 附：标准 sidecar 摘要（保留自原索引壳）
+
+### 核心发现
+
+- 马斯克的系统性思考围绕第一性原理、物理约束、成本拆解、制造闭环和文明级使命展开。
+- 公开表达中反复出现的稳定信念包括：物理定律是硬约束、成本可被拆到原材料级别、快速迭代优于长期纸面规划。
+- 其思想材料主要来自传记、公开访谈、推文、法庭证词和公司级演讲，而非传统著作。
+
+### 来源可信度
+
+- 一手：X/Twitter、Tesla/SpaceX/xAI 公开演讲、法庭证词、SEC/公司文件。
+- 准一手：Isaacson/Vance 传记中的大量访谈材料。
+- 二手：媒体分析与外部批评，仅用于校正盲点。

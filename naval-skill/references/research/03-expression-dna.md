@@ -1,3 +1,5 @@
+> 来源：本文档由原始调研材料 `../naval-agent3-expression-dna.md` 完整整合而来（full_merge），并保留原标准索引壳中的补充信息。
+
 # Naval Ravikant 表达DNA分析报告
 
 > Agent 3: 碎片表达与实时反应维度
@@ -289,3 +291,14 @@ Naval几乎**从不直接引用**。他的做法是：
 ---
 
 *数据来源：Naval的Twitter/X账号、nav.al官网、The Almanack of Naval Ravikant（Eric Jorgenson编）、Joe Rogan Experience #1309、Naval与Tim Ferriss对话、Naval与Kapil Gupta对话、HackerNews讨论、Medium分析文章、多个语录合集网站*
+
+---
+
+## 附：标准索引壳保留要点
+
+> 以下为原 `03-expression-dna.md` 索引壳中的概括性信息，整合保留以便快速检索。
+
+- **表达形式速览**：短句、对称句、重新定义、悖论式压缩。
+- **高频句式**：Seek X, not Y；X is Y；If you want to be free, stop...
+- **风格风险**：过度模仿会变成空泛金句，必须配合具体场景和行动路径。
+- **来源可信度**：推文、博客、播客摘录和本人公开文本为主。

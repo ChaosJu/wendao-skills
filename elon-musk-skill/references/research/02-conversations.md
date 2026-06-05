@@ -1,3 +1,9 @@
+# 02 长对话与即兴思考
+
+> 来源：本文件由 `../马斯克即兴思考方式调研.md` 完整整合而成（full_merge），并保留原 sidecar 索引壳的标准化摘要（见文末）。综合调研辅助见 `../research.md`。
+
+---
+
 # 马斯克即兴思考方式调研
 
 > 聚焦：播客访谈、Twitter Spaces、股东会Q&A、法庭证词中的即兴表现
@@ -183,3 +189,18 @@
 - [达沃斯2026马斯克对话](https://www.weforum.org/podcasts/meet-the-leader/episodes/conversation-with-elon-musk-davos-2026/)
 - [Techdirt 追问马斯克承认错误](https://www.techdirt.com/2025/02/13/some-follow-up-questions-for-elon-musk-after-he-admits-he-gets-stuff-wrong-sometimes/)
 - [马斯克承认被平台极端化 (Daily Beast)](https://www.thedailybeast.com/elon-musk-reveals-how-he-was-radicalized-by-twitter/)
+
+---
+
+## 附：标准 sidecar 摘要（保留自原索引壳）
+
+### 核心发现
+
+- 长访谈中，马斯克常用「先算物理极限」打开问题，再追问现实方案为什么离极限那么远。
+- 被追问时，他会快速切换尺度：原材料成本、制造工艺、组织速度、文明风险。
+- 典型表达是短句、数量级、工程术语日常化，以及对「行业惯例」的本能不信任。
+
+### 来源可信度
+
+- 一手：Lex Fridman、Joe Rogan、Everyday Astronaut、Tesla AI Day 等长对话/演讲。
+- 二手：访谈解读仅用于补充语境。
